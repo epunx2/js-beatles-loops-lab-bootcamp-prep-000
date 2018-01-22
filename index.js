@@ -8,7 +8,7 @@ var johnLennonFacts = function(jlFacts) {
     jlFacts[i] = jlFacts[i] + "!";
     i++;
   }
-  return jlfacts;
+  return jlFacts;
 }
 
 var iLoveTheBeatles = function(num) {
